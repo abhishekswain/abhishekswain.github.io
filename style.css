@@ -11,7 +11,7 @@ article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section {
 display:block;
 }
 
-html, body {background: #181818; font-family: 'Lato', helvetica, arial, sans-serif; font-size: 16px; color: #222;}
+html, body {background: #181818; font-family: Optima, sans-serif; font-size: 16px; color: #222;}
 
 .clear {clear: both;}
 
@@ -24,6 +24,7 @@ p {
 
 li {
 	margin-left: 30px;
+	font-family: Optima, sans-serif;
 
 }
 
@@ -41,16 +42,16 @@ li {
 }
 
 #name h1 {
-	font-size: 2.5em;
-	font-weight: 700;
-	font-family: 'Rokkitt', Helvetica, Arial, sans-serif;
+	font-size: 1.6em;
+	font-weight: 400;
+	font-family: Optima, sans-serif;
 	margin-bottom: -6px;
 }
 
 #name h2 {
-	font-size: 2em;
+	font-size: 1.2em;
 	margin-left: 2px;
-	font-family: 'Rokkitt', Helvetica, Arial, sans-serif;
+	font-family: Optima, sans-serif;
 }
 
 #mainArea {
@@ -128,14 +129,13 @@ section:last-child {
 }
 
 .sectionTitle h1 {
-	font-family: 'Rokkitt', Helvetica, Arial, sans-serif;
-	font-style: italic;
-	font-size: 1.5em;
+	font-family: Optima, sans-serif;
+	font-size: 1.2em;
 	color: #cf8a05;
 }
 
 .sectionContent h2 {
-	font-family: 'Rokkitt', Helvetica, Arial, sans-serif;
+	font-family: Optima, sans-serif;
 	font-size: 1.5em;
 	margin-bottom: -2px;
 }
